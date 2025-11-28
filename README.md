@@ -11,7 +11,7 @@
 
 # PIX Doação para o projeto.
 - **Nome**: Ademeson Santiago de Lima
-- **CPF**: ***.152.838-**
+- **CPF**: °°°.152.838-°°
 - **Instituição**: PAGSEGURO S.A.
 
 - **Observação**: Conferir os dados a cima antes de finalizar o envio da doação.
