@@ -41,7 +41,7 @@
 <img width="502" height="712" alt="003" src="https://github.com/user-attachments/assets/44032391-161f-4334-9719-413a7924a808" />
 
 # Configurações.
-- Suporter a dois idiomas (Inglês e Portugues Brasil)
+- Suporter a dois idiomas (Portugues Brasil, Inglês e Espanhol)
 - Suporter atualização individual de idiomas para  cada banco de dados.
 - Suporte a atualização automática do Programa.
 
