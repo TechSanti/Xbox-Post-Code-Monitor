@@ -23,7 +23,7 @@
 - Suporter atualização automática e individual do banco de dados, para cada idioma.
 - suporter a atualização automática todo vez que o programa for aberto. E se tiver novas atualização, aparecera uma janela avisando sobre a nova atualização.
   
-<img width="902" height="782" alt="Capturar" src="https://github.com/user-attachments/assets/0a6dfced-4482-4807-aa25-015cb979a02b" />
+<img width="902" height="782" alt="Capturar2" src="https://github.com/user-attachments/assets/fb180ecf-148e-41ba-af35-d688ec0b8d95" />
 
 # Botões.
 - **[Salvar Log]**: Salvar todo o logo de erro da janela no programa.
@@ -31,18 +31,18 @@
 - **[Limpar Janela]**: Limpa a janela de códigos, para evitar fecha e abrir o programa todo vez que como conectar um novo console e etc.
 - **[Atualizar Dados]**: Para atualizar de forma manual os bancos de dados do programa.
 - **[Configuração]**: Contem a configuração de idiomas, atualização automatica.
-<img width="899" height="113" alt="Capturar4" src="https://github.com/user-attachments/assets/9fc64a62-db50-489e-a7be-072b5988b488" />
+<img width="901" height="84" alt="002" src="https://github.com/user-attachments/assets/f3d2df86-6a54-41ac-a283-02e2d1648b8e" />
 
 
 
 # Novas Funcionaliades.
 - Enviar novos códigos diteramente do proprio programa atravez do botão "Enviar Código", para ajudar e aumentar o bancos de dados.
 
-<img width="502" height="712" alt="Capturar2" src="https://github.com/user-attachments/assets/61c758c0-8346-45de-b930-397e1fcc9fcb" />
+<img width="502" height="712" alt="003" src="https://github.com/user-attachments/assets/44032391-161f-4334-9719-413a7924a808" />
 
 # Configurações.
 - Suporter a dois idiomas (Inglês e Portugues Brasil)
 - Suporter atualização individual de idiomas para  cada banco de dados.
 - Suporte a atualização automática do Programa.
 
-<img width="502" height="432" alt="Capturar3" src="https://github.com/user-attachments/assets/c9883670-9539-4034-81ee-88013e178f27" />
+<img width="502" height="432" alt="004" src="https://github.com/user-attachments/assets/6c340daa-967a-4fc7-a846-26c39ff95dbf" />
